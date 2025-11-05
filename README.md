@@ -86,9 +86,6 @@ This is necessary because ML models can’t process string data directly.
 
 ---
 
-## 👩‍💻 Interview-Ready Summary
-> “I built a machine learning project that predicts backpack prices using product attributes. I used pandas and sklearn for preprocessing, label encoding for categorical data, and a Linear Regression model for prediction. It helped me understand the end-to-end ML workflow — from data cleaning and encoding to model training and generating final predictions.”
-
 ---
 
 ## 🪪 License
